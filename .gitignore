@@ -27,6 +27,13 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+
+#visual studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+**/bin/**
+**/bin-int/**
+**/bin-intermediate/**
